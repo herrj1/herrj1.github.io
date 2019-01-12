@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+title:              Herrj1
+bio:                'I am a technologist and computer scientist with interdisciplinary interests.'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://herrj1.github.io/" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
@@ -16,7 +16,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: herrj1
 
 # Jekyll
 permalink:          /blog/:title/
@@ -34,7 +34,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   herrj1
 
 # Social
 analytics-id:       "default"
@@ -44,9 +44,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           South Florida, FL
 phone:              310-318-5555
-email:              info@default.com
+email:              technologiesanalyst@gmail.com
 
 # Gems
 gems:
@@ -60,7 +60,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://herrj1.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
