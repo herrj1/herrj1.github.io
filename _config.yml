@@ -4,7 +4,7 @@ bio:                'I am a technologist and computer scientist with interdiscip
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://herrj1.github.io/" # the base hostname & protocol for your site
+url: "https://herrj1.github.io" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
@@ -37,11 +37,11 @@ sass:
 disqus_shortname:   herrj1
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+analytics-id:       herrj1
+twitter:            "#"
+facebook:           "#"
+instagram:          "#"
+github:             herrj1
 
 # personal
 location:           South Florida, FL
