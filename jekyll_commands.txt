@@ -1,0 +1,12 @@
+# jekyll commands or troubleshooting solutions
+# if the following error is found:  
+ruby_dep-1.5.0 requires ruby version >= 2.2.5, ~> 2.2
+
+# delete the gemfile.lock then run
+bundle install 
+
+# if the following error is found
+`require': cannot load such file -- rexml/parsers/baseparse
+
+# run install webrick
+bundle add webrick
